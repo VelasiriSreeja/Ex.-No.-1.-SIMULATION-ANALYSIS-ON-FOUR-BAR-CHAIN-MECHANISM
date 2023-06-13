@@ -55,7 +55,10 @@
 ## Output:
 ![Screenshot (329)](https://github.com/VelasiriSreeja/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118344328/0dd16f26-23f3-4962-ae29-c9502b936100)
 
-![Uploading Screenshot (330).png…]()
+![Screenshot (330)](https://github.com/VelasiriSreeja/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118344328/5d0a1524-417f-4920-9312-79fa0502cae7)
+
+
+
 
 
 
