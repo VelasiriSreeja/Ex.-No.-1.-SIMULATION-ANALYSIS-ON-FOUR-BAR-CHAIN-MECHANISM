@@ -57,6 +57,7 @@
 
 ![Screenshot (330)](https://github.com/VelasiriSreeja/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118344328/5d0a1524-417f-4920-9312-79fa0502cae7)
 
+![WhatsApp Image 2023-06-13 at 6 30 48 PM](https://github.com/VelasiriSreeja/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118344328/49e11313-4b0d-47cf-8caa-3c8483a3ed98)
 
 
 
